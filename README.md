@@ -4,6 +4,10 @@ Webpage IP Address(use this)
 
 
 
+
+
+
+
 # DevOps Internship Assignment: Django Deployment
 
 Welcome to your practical assessment. You have been provided with a working Django Rest Framework (DRF) application. Your goal is to containerize this application, set up a CI/CD pipeline, and deploy it to a cloud provider.
