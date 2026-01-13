@@ -1,5 +1,5 @@
 Visit Website
-http://52.14.233.49:32768/admin/login/?next=/admin/
+http://18.188.124.168:32768/admin/login/?next=/admin/
 Webpage IP Address(use this)
 
 
