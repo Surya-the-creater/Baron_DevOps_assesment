@@ -1,6 +1,6 @@
-Visit Website
+
 http://18.188.124.168:32768/admin/login/?next=/admin/
-Webpage IP Address(use this)
+Webpage IP Address(use this) Visit Website
 
 
 
